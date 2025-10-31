@@ -1,12 +1,12 @@
 [package]
-name = "chicv-ripoff"
+name = "resume-soup"
 version = "1.0.0"
 entrypoint = "src/lib.typ"
-authors = ["@matchy233"]
+authors = ["Hunter Coles"]
 license = "MIT"
-description = "A minimal and fully-customizable CV template."
-repository = "https://github.com/matchy233/typst-chi-cv-template"
-keywords = ["cv"]
+description = "A minimal and fully-customizable CV template (forked from chi-cv-template)."
+repository = "https://github.com/HunterColes/resume_soup"
+keywords = ["cv", "resume"]
 categories = ["cv"]
 
 [template]

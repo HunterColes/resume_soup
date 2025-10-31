@@ -1,3 +1,14 @@
+# Changelog
+
+## Forked as resume_soup (2025)
+- Forked from [typst-chi-cv-template](https://github.com/matchy233/typst-chi-cv-template)
+- Personalized for Hunter Coles' resumes
+- Added custom resume versions (hunter_mk1, hunter_mk2)
+
+---
+
+# Original chi-cv-template Changelog
+
 # [v1.1](https://github.com/matchy233/typst-chi-cv-template/releases/tag/1.1)
 
 ## Added
